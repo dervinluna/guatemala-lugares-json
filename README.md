@@ -62,7 +62,7 @@ Archivo base:
 
 ## 🧑‍💻 Créditos
 
-Conversión a JSON estructurado realizada por \[Tu nombre o tu usuario de GitHub].
+Conversión a JSON estructurado realizada por \dervinluna.
 
 ---
 
