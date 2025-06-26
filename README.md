@@ -70,10 +70,3 @@ Conversión a JSON estructurado realizada por \[Tu nombre o tu usuario de GitHub
 
 Los datos originales son propiedad del INE de Guatemala. Este repositorio no tiene afiliación oficial con dicha institución. La finalidad de este proyecto es **facilitar el uso técnico de la información pública ya disponible**.
 
-```
-
----
-
-Cuando tengas el archivo `centroides-lugares-poblados.json` en el mismo repositorio, solo subes esto como `README.md` y estará todo listo para compartir. ¿Te gustaría que te ayude también a crear el nombre del repositorio y una pequeña descripción para GitHub?
-```
-
